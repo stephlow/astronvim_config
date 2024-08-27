@@ -13,7 +13,8 @@ return {
         "lua_ls",
         "harper_ls",
         "rust_analyzer",
-        "tsserver"
+        "tsserver",
+        "biome",
         -- add more arguments for adding more language servers
       },
     },
